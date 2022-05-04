@@ -29,7 +29,7 @@ description: This is some description
 > **The quick brown fox** *jumps over the lazy dog.*
 
 Monospaced
-\`\`The quick brown fox jumps over the lazy dog\`\`
+``The quick brown fox jumps over the lazy dog``
 
 <ins>The quick brown fox jumps over the lazy dog.</ins>
 
